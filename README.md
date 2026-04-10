@@ -3,6 +3,7 @@ A comprehensive study of microwave circuits featuring transmission line matching
 
 ## 📌 Project Overview
 This repository contains a comprehensive analysis and computational design of high-frequency microwave circuits. The project bridges theoretical Smith Chart calculations with algorithmic optimization to design and analyze transmission lines, matching networks, and microstrip filters. 
+[Click here to read the Full Technical Analysis](RF_Analysis.md)
 
 ## 🛠️ Tools & Technologies
 * **Languages:** MATLAB, Python
